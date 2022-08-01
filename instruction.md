@@ -20,7 +20,7 @@
 ```
 <img src="https://vetmaster.ru/wp-content/uploads/2018/10/exclamation-mark-button-symbol-image-download-101865.png" width="90" height="90" />
 
-### Важные команды для всех :
+### Важные команды для всех !:
 <br>
 
 ``` sh
