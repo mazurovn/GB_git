@@ -94,3 +94,4 @@ git config --global user.name
 _copyright: Mazurov N_
 
 ### Спасибо за внимание.
+_make pull request_
